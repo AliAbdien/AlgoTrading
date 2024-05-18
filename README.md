@@ -40,9 +40,6 @@ Once the environment is set up and activated, you can run the provided Jupyter n
   - `models/`: Model training and evaluation scripts.
 - `tests/`: Test scripts to ensure code quality and correctness.
 
-## Contributing
-
-Please read `CONTRIBUTING.md` for details on our code of conduct, and the process for submitting pull requests.
 
 ## License
 
